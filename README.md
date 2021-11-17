@@ -1,4 +1,7 @@
-# web-project
+# Vue Project
+<p align="center">
+<img src="https://user-images.githubusercontent.com/70177919/142138237-b5a9ac74-d082-4390-8b8f-596b320128b5.png" width="100%">
+</p>
 
 ## Project setup
 ```
