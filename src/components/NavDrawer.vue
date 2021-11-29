@@ -49,11 +49,6 @@
     data: () => ({
         barItems: [
             {
-            title: "Home",
-            icon: "mdi-home",
-            url: "/",
-            },
-            {
             title: "Taekwondo",
             icon: "mdi-karate",
             url: "/tkd",
@@ -74,8 +69,7 @@
             url: "/aulas",
             },
         ],
-        selectedNavbarItem: 0,
-        selectedBottombarItem: 0,
+        selectedbarItem: 0,
     }),
   }
 </script>
