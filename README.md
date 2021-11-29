@@ -1,6 +1,8 @@
 # Vue Project
+
+### TAEKWONDO
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70177919/142138237-b5a9ac74-d082-4390-8b8f-596b320128b5.png" width="100%">
+<img src="https://user-images.githubusercontent.com/70177919/143801454-3148a0b3-283d-40dd-b6ed-21bf51b30fda.png" width="100%">
 </p>
 
 ## Project setup
