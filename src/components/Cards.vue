@@ -4,7 +4,7 @@
     max-width="400"
   >
     <v-img
-      height="200px"
+      height="250px"
       :src="require(`@/assets/${tkd.image}`)"
     >
      

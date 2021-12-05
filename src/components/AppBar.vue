@@ -3,7 +3,6 @@
         app       
         color=#48D1CC
         elevate-on-scroll
-        scroll-target="#scrolling-techniques-7"
         short
         height = "40"
       >
@@ -13,7 +12,7 @@
         <v-spacer>
         </v-spacer>
         <v-toolbar-items short>
-          <v-btn outlined class="mx-0" @click="$router.push('/tkd')" >Taekwondo</v-btn>
+          <v-btn outlined class="mx-0" @click="$router.push('/')" >Taekwondo</v-btn>
           <v-btn outlined class="mx-0" @click="$router.push('/faixas')" >Faixas</v-btn>
           <v-btn outlined class="mx-0" @click="$router.push('/poomsae')" >Poomsae</v-btn>
           <v-btn outlined class="mx-0" @click="$router.push('/aulas')" >Aulas</v-btn>

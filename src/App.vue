@@ -10,9 +10,7 @@
     <Footer></Footer>
     
     <v-main>
-      <v-content>
-        <router-view></router-view>
-      </v-content>
+      <router-view></router-view>
     </v-main>
       
   </v-app>    

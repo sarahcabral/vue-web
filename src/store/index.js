@@ -71,7 +71,7 @@ export default new Vuex.Store({
         isPoomsae: true,
         isFaixa: false, 
         isAula: false,
-        description: "Deve demontrar técnica e força."
+        description: "Deve demontrar técnica e força, o poomsae é uma série de movimentos para as técnicas de ataque e defesa que podem ser praticados e treinados, mesmo sem a presença de um instrutor, de acordo com os padrões fixos."
       },
       {
         name: "Aulas semanais",
@@ -83,6 +83,18 @@ export default new Vuex.Store({
         isPoomsae: false,
         isFaixa: false, 
         isAula: true,
+      },
+      {
+        name: "Taegeuk Sam (3º) Jang",
+        subtitle:"Poomsae faixa verde",
+        image: "Sam Jang.png",
+        extra: "Link",
+        url: "https://youtu.be/v8W-rsBiS5s",
+        description: "Esse poomsae simboliza o RI (Fogo). Possui 20 movimentos  o qual representa calor e brilho. RI (Fogo) é o conceito filosófico desta Poomsae e significa o fogo e o sol. O sol causa o fogo.",
+        isHome: false,
+        isPoomsae: true,
+        isFaixa: false, 
+        isAula: false,
       },
     ]
   },

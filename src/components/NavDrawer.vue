@@ -51,7 +51,7 @@
             {
             title: "Taekwondo",
             icon: "mdi-karate",
-            url: "/tkd",
+            url: "/",
             },
             {
             title: "Faixas",
