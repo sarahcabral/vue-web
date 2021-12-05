@@ -12,7 +12,7 @@
 
 ### Poomsae
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70177919/143805207-a00fa13d-8968-43e4-ac77-ab376d4fe2dc.png" width="100%">
+<img src="https://user-images.githubusercontent.com/70177919/144766481-ffddda8c-7083-4ca9-8394-bca60d04d902.png" width="100%">
 </p>
 
 ### Aulas
